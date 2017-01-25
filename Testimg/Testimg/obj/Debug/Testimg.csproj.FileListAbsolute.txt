@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2015\Projects\Testimg\Testimg\bin\Debug\Testimg.exe.config
+C:\Users\admin\documents\visual studio 2015\Projects\Testimg\Testimg\bin\Debug\Testimg.exe
+C:\Users\admin\documents\visual studio 2015\Projects\Testimg\Testimg\bin\Debug\Testimg.pdb
+C:\Users\admin\documents\visual studio 2015\Projects\Testimg\Testimg\bin\Debug\EntityFramework.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Testimg\Testimg\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Testimg\Testimg\bin\Debug\EntityFramework.xml
+C:\Users\admin\documents\visual studio 2015\Projects\Testimg\Testimg\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\documents\visual studio 2015\Projects\Testimg\Testimg\obj\Debug\Testimg.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2015\Projects\Testimg\Testimg\obj\Debug\Testimg.exe
+C:\Users\admin\documents\visual studio 2015\Projects\Testimg\Testimg\obj\Debug\Testimg.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Testimg\Testimg\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Testimg\Testimg\bin\Debug\Newtonsoft.Json.xml
